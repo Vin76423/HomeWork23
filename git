@@ -1,0 +1,11 @@
+# Compiled class file
+*.class
+
+# Settings
+.idea
+
+
+
+/target/
+*.iml
+/pom.xml
